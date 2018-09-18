@@ -152,7 +152,44 @@
 \tag _root
     \follow meta    
     \group formatted_text
-    
+
+
+---
+\tag a
+    \follow b
+\tag b
+    \tag c
+
+Valid examples:
+-
+\a
+-
+\b
+-
+\b
+    \c
+-
+\a
+    \b
+-
+\a
+    \b
+        \c
+---
+\tag a
+    \follow a
+
+Valid examples:
+
+\a
+
+\a
+    \a
+
+\a
+    \a
+        \a
+
 ---
 
 \tag a

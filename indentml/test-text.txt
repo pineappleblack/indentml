@@ -1,0 +1,11 @@
+\tag0
+    \tag1
+        Favourite
+        \tag3
+            World
+    \tag1
+        Is
+        \tag2
+            Cool
+    \tag3
+        \tag2

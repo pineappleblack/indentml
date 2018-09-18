@@ -1,0 +1,7 @@
+\tag tag0
+    \tag tag1
+        \tag tag2
+    \tag tag3
+        \follow tag1
+\tag tag1
+        \tag tag2
